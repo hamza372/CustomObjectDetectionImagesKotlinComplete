@@ -1,0 +1,2 @@
+com/example/imageclassificationkotlin/BuildConfig.java
+ com.example.imageclassificationkotlin.BuildConfig
